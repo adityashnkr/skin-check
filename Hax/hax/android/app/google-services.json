@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129418510868",
+    "project_id": "haxx-ae9c1",
+    "storage_bucket": "haxx-ae9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129418510868:android:1a89b703b80c62556ddd01",
+        "android_client_info": {
+          "package_name": "com.hussain.hax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129418510868-0hnoc4ooasbjdjqeh5l5keqpoc13bbht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1yIZGEOS2emIg9js0Aj8lZT40nXdvmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129418510868-0hnoc4ooasbjdjqeh5l5keqpoc13bbht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
