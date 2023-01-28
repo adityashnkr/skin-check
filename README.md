@@ -32,10 +32,5 @@ Contributing
 
 If you're feeling adventurous and want to help improve Skin Check, head on over to the [GitHub repository](https://github.com/adityashnkr/skin-check) and take a look at the open issues. We'd love your help!
 
-Support
--------
-
-If you're having trouble with Skin Check, please head over to the [GitHub repository](https://github.com/adityashnkr/skin-check) and open an issue. We'll do our best to help you out!
-
 Enjoy using Skin Check! 📸
 --------------------------
