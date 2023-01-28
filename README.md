@@ -3,6 +3,8 @@ Skin Check 🔍
 
 Keep your skin in check with Skin Check! This is a handy app that helps you track changes in your skin and detect any potential skin issues. Whether you want to keep an eye on a mole or simply want to keep a record of how your skin is doing, Skin Check has got you covered.
 
+DEVPOST: https://devpost.com/software/skincheck
+
 Features
 --------
 
